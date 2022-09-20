@@ -1,0 +1,2 @@
+rootProject.name = "Kotlin WebView"
+include ':app'
